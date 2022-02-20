@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Windows">
+        <classes>
+            <class name="MyStore.examples.DDT.TC1">
+            </class>
+            <class name="MyStore.examples.DDT.TC2">
+            </class>
+            <class name="MyStore.examples.DDT.TC3">
+            </class>
+            <class name="MyStore.examples.DDT.TC4">
+            </class>
+            <class name="MyStore.examples.DDT.TC5">
+            </class>
+            <class name="MyStore.examples.DDT.TC6">
+            </class>
+        </classes>
+    </test>
+</suite>
